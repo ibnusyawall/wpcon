@@ -1,0 +1,24 @@
+{
+  "name": "wpcon",
+  "version": "1.0.0",
+  "description": "get users from wordpress site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ibnusyawall/wpcon.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ibnusyawall/wpcon/issues"
+  },
+  "homepage": "https://github.com/ibnusyawall/wpcon#readme",
+  "dependencies": {
+    "commander": "^4.0.1",
+    "needle": "^2.4.0"
+  }
+}
