@@ -19,6 +19,7 @@
   "homepage": "https://github.com/ibnusyawall/wpcon#readme",
   "dependencies": {
     "commander": "^4.0.1",
-    "needle": "^2.4.0"
+    "needle": "^2.4.0",
+    "readline": "^1.3.0"
   }
 }

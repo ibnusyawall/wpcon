@@ -1,5 +1,5 @@
 # wpcon
-get users from wordpress site
+get users from wordpress site ( only testing on website my school :D )
 
 ## install
 ```
